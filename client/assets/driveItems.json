@@ -1,0 +1,31 @@
+{
+	"rideItems" : 
+	[
+	    {
+	        "id": 1,
+	        "from": "Chunxi Road",
+	        "to": "Renmin Park",
+	        "days": [
+	            "Mon",
+	            "Wed",
+	            "Fri"
+	        ],
+	        "description": "I'm working in xx company. Just take a ride.",
+	        "hour": 8,
+	        "minute": 0
+	    },
+	    {
+	        "id": 2,
+	        "from": "Chunxi Road",
+	        "to": "Sichuan University",
+	        "days": [
+	            "Mon",
+	            "Wed",
+	            "Fri"
+	        ],
+	        "description": "I'm working in xx company. Just take a ride.",
+	        "hour": 7,
+	        "minute": 0
+	    }
+	]
+}

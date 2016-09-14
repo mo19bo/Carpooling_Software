@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinnerafteday">
+        <item>1 day later</item>
+        <item>2 days later</item>
+        <item>3 days later</item>
+        <item>4 days later</item>
+    </string-array>
+</resources>

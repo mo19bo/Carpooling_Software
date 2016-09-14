@@ -1,0 +1,9 @@
+{
+	"name" : "Tony Pod",
+	"gender" : "Male",
+	"age" : 23,
+	"tel" : "11111111111",
+	"driveCredit" : 10.0,
+	"rideCredit" : 10.0,
+	"selfIntro" : "I like making friends. I\'m very sociable."
+}
